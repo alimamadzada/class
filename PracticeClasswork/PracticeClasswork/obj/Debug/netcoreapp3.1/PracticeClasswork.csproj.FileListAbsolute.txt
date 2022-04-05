@@ -1,0 +1,14 @@
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\obj\Debug\netcoreapp3.1\PracticeClasswork.csproj.AssemblyReference.cache
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\obj\Debug\netcoreapp3.1\PracticeClasswork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\obj\Debug\netcoreapp3.1\PracticeClasswork.AssemblyInfoInputs.cache
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\obj\Debug\netcoreapp3.1\PracticeClasswork.AssemblyInfo.cs
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\obj\Debug\netcoreapp3.1\PracticeClasswork.csproj.CoreCompileInputs.cache
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\bin\Debug\netcoreapp3.1\PracticeClasswork.exe
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\bin\Debug\netcoreapp3.1\PracticeClasswork.deps.json
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\bin\Debug\netcoreapp3.1\PracticeClasswork.runtimeconfig.json
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\bin\Debug\netcoreapp3.1\PracticeClasswork.runtimeconfig.dev.json
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\bin\Debug\netcoreapp3.1\PracticeClasswork.dll
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\bin\Debug\netcoreapp3.1\PracticeClasswork.pdb
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\obj\Debug\netcoreapp3.1\PracticeClasswork.dll
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\obj\Debug\netcoreapp3.1\PracticeClasswork.pdb
+C:\Users\Ali Mamadzada BP101\source\repos\PracticeClasswork\PracticeClasswork\obj\Debug\netcoreapp3.1\PracticeClasswork.genruntimeconfig.cache
